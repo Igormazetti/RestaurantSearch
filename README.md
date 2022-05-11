@@ -27,7 +27,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/igormazetti/RepositorySeeker.git && cd RestaurantSearch
+$ git clone https://github.com/igormazetti/RestaurantSearch.git && cd RestaurantSearch
 ```
 
 **Follow the steps below**
